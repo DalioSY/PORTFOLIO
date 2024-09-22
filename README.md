@@ -12,9 +12,6 @@ meus projetos finalizados e o meu contato. </p>
 <li>JAVASCRIPT</li>
 </ul>
 
-> https://daliosy.github.io/PORTFOLIO
-
-
 <h2>Contato:</h2>
 
 > Linkedin: https://www.linkedin.com/in/dalio-s-yamada/
@@ -24,11 +21,3 @@ meus projetos finalizados e o meu contato. </p>
 <img src="./assets/img/web-portfolio.png">
 
 #HTML #CSS #JavaScript #Github #React.js #Typescript #Node.js #Express #sequelize #postgresql #docker #FrontEnd #BackEnd #FullStack #Programador #Dev #Web #Desenvolvedor-Web #DesenvolvedorFrontEnd #DesenvolvedorFullStack #TransiçãoDeCarreira #jornadaproficional #aprendendo #api #realtime #fetch #tecnologia
-
-
-
-
-
-
-
-
